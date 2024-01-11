@@ -41,13 +41,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desafio classes de um jogo Potência Tech",
+      "url": "https://github.com/AlmerianF/desafio-felipao/blob/main/desafioclassesdeumjogo.js",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desafio 2 Potência Tech",
+      "url": "https://github.com/AlmerianF/desafio-felipao/blob/main/src/desafiodois.js",
       "github": true
     }
   ],
